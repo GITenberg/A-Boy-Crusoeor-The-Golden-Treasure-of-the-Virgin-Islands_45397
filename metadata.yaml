@@ -1,0 +1,28 @@
+_repo: A-Boy-Crusoeor-The-Golden-Treasure-of-the-Virgin-Islands_45397
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45397-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Eric, Allan
+    alias: Willis, Charles W.
+    birthdate: 1864
+    gutenberg_agent_id: '43260'
+    url: http://www.gutenberg.org/2009/agents/43260
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robinsonades'
+- !lcsh 'Virgin Islands -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Boy Crusoe; or, The Golden Treasure of the Virgin Islands
+url: http://www.gutenberg.org/ebooks/45397
